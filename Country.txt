@@ -1,0 +1,4 @@
+China~1.44
+USA~330.5
+Brazil~3.2
+India~1.37
